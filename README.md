@@ -1,1 +1,1 @@
-# 1001 PAPER
+# Initial version of CMML-Net

@@ -9,7 +9,9 @@ Multi-modal sarcasm detection is a process to capture **complete incongruity**. 
 ### 🖼️ Examples That Speak Volumes  
 Here are four multi-modal sarcasm samples that showcase the complexity of incongruity. We also list the inference results of our model and some representative models on these samples.
 
-<img src="files/1731841533064.jpg" alt="述" width="700" />
+
+<img src="files/image.png" alt="述" width="900" />
+
 
 1. **[Sample a]** *(Fact incongruity)*  
    - **Reason**: In the text, the image of a woman wearing a floor-length dress is described as "Bombay Dyeing just found an accessory for their 6×6 bedsheets collection." Although the text does not explicitly mention the dress, it metaphorically compares it to a bedsheet. This implicit fact incongruity satirizes the impracticality and excessive extravagance of the woman's attire.  
